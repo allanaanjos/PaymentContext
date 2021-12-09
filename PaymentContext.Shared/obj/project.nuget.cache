@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ohh/zT1gmNDf+bXPH0cqmWUWTfWn0CSUIrVIk/NoBXEL6Sb5RnnNXZGv6/1P496r1/APxUiEVA/UkzBrSxbi9g==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALLAN\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
